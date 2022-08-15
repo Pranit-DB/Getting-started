@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate with other innovative content creators
 - 🎯 2022 Goals : Contribute to open source projects , and GET a job!!!😁
-- 🎭 Fun fact : I love to draw could've ended up as an Architect 😰
+- 🎭 Fun fact : I love to draw could've ended up as an Architect 😂
 
 ### 📫 Connect with me:
 <img align="left" alt="Pranit-DB | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />- https://linkedin.com/in/Pranit9
